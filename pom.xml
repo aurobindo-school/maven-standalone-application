@@ -23,7 +23,7 @@
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
+DaltDeploymentRepository=admin::layout::http://65.2.125.128:8081/repository/amazon-snapshot/
 	<dependencies>
 
 		<dependency>
